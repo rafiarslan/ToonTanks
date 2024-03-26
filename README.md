@@ -1,4 +1,5 @@
 # ToonTanks
 
-A simple unfinisihed game project in which player controlles a tank and destroys enemy turrets. <br/>
-Game is made using Unreal Engine.
+A simple game project in which the player controls a tank and destroys enemy turrets. 
+
+Made with Unreal Engine.
